@@ -92,3 +92,6 @@ History
 * 0.3.0: Use 0.7.1 release.
 * 0.4.0: Move notMMNIST data for Google Cloud.
 * 0.5.0: Actually use 0.7.1 release.
+=======
+# deep-learning
+Udacity deep learning cource - Offered by Google
